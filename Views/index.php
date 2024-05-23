@@ -8,24 +8,24 @@
         <div class="carousel-item active">
           <div class="row">
             <div class="col-sm-12">
-              <h1 class="banner_taital">Get Start <br>Your favriot shoping</h1>
-              <div class="buynow_bt"><a href="#">Buy Now</a></div>
+              <h1 class="banner_taital">Gracias por  <br>visitarnos</h1>
+              <div class="buynow_bt"><a href="#">Busca</a></div>
             </div>
           </div>
         </div>
         <div class="carousel-item">
           <div class="row">
             <div class="col-sm-12">
-              <h1 class="banner_taital">Get Start <br>Your favriot shoping</h1>
-              <div class="buynow_bt"><a href="#">Buy Now</a></div>
+              <h1 class="banner_taital">Los mejores <br>Precio aqui </h1>
+              <div class="buynow_bt"><a href="#">Busca</a></div>
             </div>
           </div>
         </div>
         <div class="carousel-item">
           <div class="row">
             <div class="col-sm-12">
-              <h1 class="banner_taital">Get Start <br>Your favriot shoping</h1>
-              <div class="buynow_bt"><a href="#">Buy Now</a></div>
+              <h1 class="banner_taital">Gracias por<br>visitarnos</h1>
+              <div class="buynow_bt"><a href="#">Buscar</a></div>
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
           <div class="<?php echo (count($categoria['productos']) > 2) ? 'col-lg-4' : 'col-lg-12'; ?>">
             <div class="box_main">
               <h4 class="shirt_text"><?php echo $producto['nombre']; ?></h4>
-              <p class="price_text">Precio <span style="color: #262626;">$ <?php echo $producto['precio']; ?></span></p>
+              <p class="price_text">Precio <span style="color: #262626;">Bs <?php echo $producto['precio']; ?></span></p>
               <div class="text-center">
                 <img data-lazy="<?php echo BASE_URL . $producto['imagen']; ?>" />
               </div>

@@ -10,7 +10,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
    <!-- site metas -->
-   <title>Vida Informático</title>
+   <title>CHASKI</title>
    <meta name="keywords" content="">
    <meta name="description" content="">
    <meta name="author" content="">
@@ -58,7 +58,7 @@
                <div class="col-sm-12">
                   <div class="custom_menu">
                      <ul>
-                        <li><a href="https://informatica-programacion.com/">Vida Informático</a></li>
+                        <li><a href="https://facebook.com/">CHASKI</a></li>
                      </ul>
                   </div>
                </div>
@@ -71,7 +71,7 @@
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
-                  <div class="logo"><a href="<?php echo BASE_URL; ?>"><img src="<?php echo BASE_URL; ?>assets/images/logo.png" width="50"></a></div>
+                  <div class="logo"><a href=""></a></div>
                </div>
             </div>
          </div>

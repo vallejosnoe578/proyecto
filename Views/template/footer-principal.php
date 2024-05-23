@@ -58,7 +58,7 @@
       </div>
       <div class="modal-body m-3">
         <div class="text-center">
-          <img class="img-thumbnail rounded-circle" src="<?php echo BASE_URL . 'assets/img/logo.png'; ?>" alt="" width="100">
+          <img class="img-thumbnail rounded-circle" src="<?php echo BASE_URL . 'assets/img/lo.png'; ?>" alt="" width="100">
         </div>
         <div class="row">
           <div class="col-md-12" id="frmLogin">
