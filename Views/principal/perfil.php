@@ -2,7 +2,7 @@
 
 <!-- Start Content -->
 <div class="container py-5">
-    <?php if ($data['verificar']['verify'] == 1) { ?>
+    <?php if ($data['verificar']['verify'] == 0) { ?>
         <div class="row">
             <div class="col-3">
                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
@@ -51,7 +51,7 @@
                                                 <div class="card-header" id="headingOne">
                                                     <h2 class="mb-0">
                                                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                            Paypal
+                                                            Pagar por Paypal
                                                         </button>
                                                     </h2>
                                                 </div>
@@ -59,7 +59,7 @@
                                                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                                                     <div class="card-body">
                                                         <div id="paypal-button-container"></div>
-                                                    </div>
+                                                    </div>  
                                                 </div>
                                             </div>
                                         </div>

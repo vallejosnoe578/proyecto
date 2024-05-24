@@ -18,7 +18,7 @@ class UsuariosModel extends Query{
     }
     public function verificarCorreo($correo)
     {
-        $sql = "SELECT correo FROM usuarios WHERE correo = '$correo' AND estado = 1";
+        $sql = "SELECT correo FROM usuarios WHERE correo = '$correo' AND estado = 0 ";
         return $this->select($sql);
     }
 
