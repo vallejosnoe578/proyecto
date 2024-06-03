@@ -4,7 +4,7 @@ const BASE_URL = "http://localhost/proyecto/";
 const HOST = "localhost";
 const USER = "root";
 const PASS = "";
-const DB = "tienda-online";
+const DB = "proyecto";
 const CHARSET = "charset=utf8";
 const TITLE = "TIENDA";
 const MONEDA = "Bs";

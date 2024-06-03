@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
                       <div class="card-body">
                         <a href="#" class="h2 text-decoration-none text-dark">${producto.nombre}</a>
                         <p class="card-text">
-                        $${producto.precio}
+                        ${producto.precio}
                         </p>
                         <div class="buy_bt"><a href="#" onclick="agregarCarrito(${producto.id}, 1)">Añadir</a></div>
                       </div>
